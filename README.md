@@ -22,4 +22,25 @@
 abhijeetjejurkar/abhijeetjejurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![Abhijeet's github stats](https://github-readme-stats.vercel.app/api?username=abhijeetjejurkar&hide=issues&show_icons=true&theme=highcontrast)
+<div align="center">
+  
+  ###    OVERVIEW
+  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abhijeetjejurkar&show_icons=true&theme=radical" />
+
+<br>
+<br>
+<!-- Contribution Graph -->
+
+<br>
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=abhijeetjejurkar&theme=xcode" /></p>
+    
+    
+<br>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhijeetjejurkar&theme=tokyonight" />
+  
+  <br>  <br>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=abhijeetjejurkar&column=7&no-frame=true"/>
+
+</div>
